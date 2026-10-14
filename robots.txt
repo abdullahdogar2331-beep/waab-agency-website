@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://waab-agency-website.vercel.app/sitemap.xml
+Sitemap: https://abdullahdogar2331-beep.github.io/waab-agency-website/sitemap.xml
