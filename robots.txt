@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://abdullahdogar2331-beep.github.io/waab-agency-website/sitemap.xml
